@@ -9,7 +9,7 @@
 </p>
 
 <p align="center">
-  <img src="assets/CMP_autocomplete_search_box.png" alt="ComposeAutocompleteSearchBox" width="800"/>
+  <img src="assets/CMP_autocomplete_search_box.gif" alt="ComposeAutocompleteSearchBox" width="960"/>
 </p>
 
 ---
@@ -157,7 +157,7 @@ fun SearchBoxPreview() {
 <p align="center">
    <h3 align="center">Expected Output</h3>
   <p align="center">
-  <img src="/assets/preview.png" alt="SearchBox Screenshot" width="200"/>
+  <img src="/assets/preview.gif" alt="SearchBox Screenshot" width="250"/>
 </p>
 
 
