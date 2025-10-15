@@ -1,12 +1,14 @@
 # 🧩 CMPAutocompleteSearchBox  
 > A clean, customizable **Jetpack Compose Multiplatform** search box with auto-complete suggestions.
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Compose-Multiplatform-blue?logo=jetpackcompose&logoColor=white" />
-  <img src="https://img.shields.io/badge/Android-UI-green?logo=android&logoColor=white" />
-  <img src="https://img.shields.io/badge/iOS-UI-silver?logo=apple&logoColor=white" />
-  <img src="https://img.shields.io/badge/Version-1.0.0-orange" />
-</p>
+[![Maven Central](https://img.shields.io/maven-central/v/network.chaintech/cmp-autocomplete-search-box.svg)](https://central.sonatype.com/artifact/network.chaintech/cmpautocompletesearchbox)
+[![Kotlin](https://img.shields.io/badge/kotlin-v2.2.0-blue.svg?logo=kotlin)](http://kotlinlang.org)
+[![Compose Multiplatform](https://img.shields.io/badge/Compose%20Multiplatform-v1.8.2-blue)](https://github.com/JetBrains/compose-multiplatform)
+[![License](https://img.shields.io/github/license/Chaintech-Network/CMP-autocomplete-search-box)](http://www.apache.org/licenses/LICENSE-2.0)
+
+![badge-android](http://img.shields.io/badge/platform-android-3DDC84.svg?style=flat)
+![badge-ios](http://img.shields.io/badge/platform-ios-FF375F.svg?style=flat)
+
 
 <p align="center">
   <img src="assets/CMP_autocomplete_search_box.gif" alt="ComposeAutocompleteSearchBox" width="960"/>
