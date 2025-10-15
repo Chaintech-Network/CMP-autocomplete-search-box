@@ -171,17 +171,45 @@ fun SearchBoxPreview() {
 | `SearchBoxIcons` | Icon customization class |
 
 ---
+## 📖 Detailed Explanation
+
+For an in-depth guide and detailed explanation, check out our comprehensive Medium Blog Post.
+
+[![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/mobile-innovation-network/cmpautocompletesearchbox-38c74215b22a)
 
 ## 🧑‍💻 Author
 
 **Chaintech Network**  
-[![GitHub](https://img.shields.io/badge/GitHub-Chaintech--Network-black?logo=github)](https://github.com/Chaintech-Network)  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin)](https://www.linkedin.com/showcase/mobile-innovation-network)  
-[![Medium](https://img.shields.io/badge/medium-Follow-blue?logo=medium)](https://medium.com/mobile-innovation-network)
 
+Stay connected and keep up with our latest innovations! 💼 Let's innovate together!
+
+[![GitHub](https://img.shields.io/badge/GitHub-Chaintech--Network-black?logo=github)](https://github.com/Chaintech-Network)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/showcase/mobile-innovation-network)
+[![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/mobile-innovation-network)
+
+<br>
 
 ## 🌟 Support
 
 If you find this library useful:  
 ⭐ **Star** the repo → it helps others discover it!  
 💬 Open an issue or PR if you’d like to contribute.
+
+## 📄 License
+
+```
+Copyright 2025 Mobile Innovation Network
+
+Licensed under the Apache License, Version 2.0 (the "License");
+you may not use this file except in compliance with the License.
+You may obtain a copy of the License at
+
+   http://www.apache.org/licenses/LICENSE-2.0
+
+Unless required by applicable law or agreed to in writing, software
+distributed under the License is distributed on an "AS IS" BASIS,
+WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+See the License for the specific language governing permissions and
+limitations under the License.
+```
+
